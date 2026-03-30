@@ -1,0 +1,14 @@
+[project]
+name = "xmltv"
+version = "0.1.0"
+description = "An object-oriented library to work with XMLTV files"
+authors = [
+    {name = "Anders Birkenes",email = "datagutten@datagutten.net"}
+]
+
+readme = "README.md"
+requires-python = ">=3.11,<4"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
