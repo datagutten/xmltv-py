@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="xmltv.sjurtf.net" generator-info-url="http://xmltv-go.quad.local">
+  <programme channel="disneychannel.no" start="20260331060000 +0200" stop="20260331061000 +0200">
+    <title lang="nb">Bluey</title>
+    <sub-title lang="nb">S02E47</sub-title>
+    <desc lang="nb">Bluey og Bingo vil smake på hverandre sin is, men de er så opptatt av å dele helt rettferdig at de ikke merker at isen smelter.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">1.46.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331061000 +0200" stop="20260331062000 +0200">
+    <title lang="nb">Bluey</title>
+    <sub-title lang="nb">S02E85</sub-title>
+    <desc lang="nb">Bingo leker dårlig humør med pappa. Hun står på føttene hans mens han tramper rundt og lager kaos og styrer alt hun gjør.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">1.84.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331062000 +0200" stop="20260331062500 +0200">
+    <title lang="nb">Bluey</title>
+    <sub-title lang="nb">S02E39</sub-title>
+    <desc lang="nb">To barnevakter kommer for å passe på Bluey og Bingo!.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">1.38.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331062500 +0200" stop="20260331065000 +0200">
+    <title lang="nb">Superkattungene</title>
+    <sub-title lang="nb">S03E05</sub-title>
+    <desc lang="nb">Superkattungene må hindre Zsa-Zsa i å stjele alt det rosa i Katteby! Herr Valpepote og Kattetyven konkurrerer om å være byens beste skurk.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2.4.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331065000 +0200" stop="20260331071500 +0200">
+    <title lang="nb">Mikkes klubbhus+</title>
+    <sub-title lang="nb">S01E09</sub-title>
+    <desc lang="nb">Hauger med brev og pakker kommer til klubbhuset ved en feil. Mikke og Minni finner ut at postsorteringsoppfinnelsen til Von Rupp er ødelagt.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">0.8.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331071500 +0200" stop="20260331072500 +0200">
+    <title lang="nb">Bluey</title>
+    <sub-title lang="nb">S02E37</sub-title>
+    <desc lang="nb">Bluey og Bingo leker stilleleken og nekter å si noe til pappa om hva slags leke han skal kjøpe. Pappa blir rådvill, og får nyansatte Alfred til å hjelpe med å tolke mimingen.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">1.36.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331072500 +0200" stop="20260331073500 +0200">
+    <title lang="nb">Bluey</title>
+    <sub-title lang="nb">S02E36</sub-title>
+    <desc lang="nb">Når mamma og pappa blir uenige får Bluey pappa til å skrive et kjærlighetsbrev til mamma. Nå må Bluey finne ut hvordan hun skal levere brevet til mamma.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">1.35.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331073500 +0200" stop="20260331074000 +0200">
+    <title lang="nb">Bluey</title>
+    <sub-title lang="nb">S02E35</sub-title>
+    <desc lang="nb">Bluey er en energisk Blue Heeler-valp som elsker å leke. Hun gjør hverdagslivet med familien til fantastiske eventyr som utvikler fantasien og hennes mentale, fysiske, og emosjonelle styrke.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">1.34.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331074000 +0200" stop="20260331075000 +0200">
+    <title lang="nb">Bluey</title>
+    <sub-title lang="nb">S02E37</sub-title>
+    <desc lang="nb">Bluey og Bingo leker stilleleken og nekter å si noe til pappa om hva slags leke han skal kjøpe. Pappa blir rådvill, og får nyansatte Alfred til å hjelpe med å tolke mimingen.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">1.36.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331075000 +0200" stop="20260331080000 +0200">
+    <title lang="nb">Bluey</title>
+    <sub-title lang="nb">S02E36</sub-title>
+    <desc lang="nb">Når mamma og pappa blir uenige får Bluey pappa til å skrive et kjærlighetsbrev til mamma. Nå må Bluey finne ut hvordan hun skal levere brevet til mamma.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">1.35.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331080000 +0200" stop="20260331080500 +0200">
+    <title lang="nb">Bluey</title>
+    <sub-title lang="nb">S02E35</sub-title>
+    <desc lang="nb">Bluey er en energisk Blue Heeler-valp som elsker å leke. Hun gjør hverdagslivet med familien til fantastiske eventyr som utvikler fantasien og hennes mentale, fysiske, og emosjonelle styrke.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">1.34.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331080500 +0200" stop="20260331083000 +0200">
+    <title lang="nb">Spidey og hans fantastiske venner</title>
+    <sub-title lang="nb">S03E74</sub-title>
+    <desc lang="nb">Team Spidey og White Tiger må stoppe Gobby og Rhino fra å drive med gruvedrift. Når Trapster fanger Spidey, må han få hjelp fra venner med store ideer.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2.73.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331083000 +0200" stop="20260331085500 +0200">
+    <title lang="nb">Iron Man og hans utrolige venner</title>
+    <sub-title lang="nb">S01E04</sub-title>
+    <desc lang="nb">Ultron tar over luftrommet, og Iron-vennene må stoppe ham. Et besøk fra T&#39;Challa blir anspent når en enhet truer drakten hans og hovedkvarteret.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331085500 +0200" stop="20260331092000 +0200">
+    <title lang="nb">Mikkes klubbhus+</title>
+    <sub-title lang="nb">S01E06</sub-title>
+    <desc lang="nb">Professor Von Rupp gir en pipeorgelvogn til klubbhustoget. Minni fremfører en sang, og hun og Mikke hjelper vennene med å gjøre ferdig jobbene sine så de kan bli med på turen.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">0.5.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331092000 +0200" stop="20260331093000 +0200">
+    <title lang="nb">Bluey</title>
+    <sub-title lang="nb">S03E09</sub-title>
+    <desc lang="nb">Når de går gjennom parken på vei til et currybytte hos Mackenzie må Bingo og Pappa våge seg forbi en skjære som stuper ned mot hodene deres for å beskytte redet sitt.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2.8.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331093000 +0200" stop="20260331094000 +0200">
+    <title lang="nb">Bluey</title>
+    <sub-title lang="nb">S03E10</sub-title>
+    <desc lang="nb">Bluey lærer Bingo å bruke magi sånn at hun kan tvinge Mamma til å leke med henne, men hun glemmer å forklare den viktigste regelen - aldri bruk magi til å være plagsom.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2.9.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331094000 +0200" stop="20260331095000 +0200">
+    <title lang="nb">Bluey</title>
+    <sub-title lang="nb">S03E10</sub-title>
+    <desc lang="nb">Bluey lærer Bingo å bruke magi sånn at hun kan tvinge Mamma til å leke med henne, men hun glemmer å forklare den viktigste regelen - aldri bruk magi til å være plagsom.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2.9.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331095000 +0200" stop="20260331100000 +0200">
+    <title lang="nb">Bluey</title>
+    <sub-title lang="nb">S03E11</sub-title>
+    <desc lang="nb">Pappa pøver lære Bluey å spille sjakk, men Mamma synes fortsatt at hun er for ung. Når Bingo blir med lager ungene sine egne regler, men de klarer fremdeles ikke å slå Pappa.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2.10.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331100000 +0200" stop="20260331101000 +0200">
+    <title lang="nb">Bluey</title>
+    <sub-title lang="nb">S03E114</sub-title>
+    <desc lang="nb">Bluey er en energisk Blue Heeler-valp som elsker å leke. Hun gjør hverdagslivet med familien til fantastiske eventyr som utvikler fantasien og hennes mentale, fysiske, og emosjonelle styrke.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2.113.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331101000 +0200" stop="20260331103500 +0200">
+    <title lang="nb">Phineas og Ferb</title>
+    <sub-title lang="nb">S05E141</sub-title>
+    <desc lang="nb">Phineas og Ferb er tilbake, og Candace er fast bestemt på å avsløre dem, mens kjælenebbdyret Perry prøver å forpurre Dr. Doofenshmirtz.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">4.140.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331103500 +0200" stop="20260331110000 +0200">
+    <title lang="nb">Phineas og Ferb</title>
+    <sub-title lang="nb">S05E146</sub-title>
+    <desc lang="nb">Barna har en overnatting; Doofs fetter fanger Perry.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">4.145.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331110000 +0200" stop="20260331112500 +0200">
+    <title lang="nb">Miraculous:  Ladybug &amp; Cat Noir på eventyr</title>
+    <sub-title lang="nb">S01E81</sub-title>
+    <desc lang="nb">Marinette og Adrien er gode venner om dagen, og hemmelige lagkamerater om natten når de transformeres til superheltene Ladybug og Cat Noir. Deres oppdrag: Fange onde skapninger ledet av Hawk Moth og redde Paris! Marinette må alltid sjonglere to identiteter og to mål: Vinne Adriens hjerte på skolen og stoppe skurkene om kvelden!.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">0.80.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331112500 +0200" stop="20260331115000 +0200">
+    <title lang="nb">Miraculous:  Ladybug &amp; Cat Noir på eventyr</title>
+    <sub-title lang="nb">S01E82</sub-title>
+    <desc lang="nb">Marinette og Adrien er gode venner om dagen, og hemmelige lagkamerater om natten når de transformeres til superheltene Ladybug og Cat Noir. Deres oppdrag: Fange onde skapninger ledet av Hawk Moth og redde Paris! Marinette må alltid sjonglere to identiteter og to mål: Vinne Adriens hjerte på skolen og stoppe skurkene om kvelden!.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">0.81.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331115000 +0200" stop="20260331121500 +0200">
+    <title lang="nb">Superkattungene</title>
+    <sub-title lang="nb">S01E08</sub-title>
+    <desc lang="nb">Superkattungene redder Sissis leke. Et piano forsvinner.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">0.7.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331121500 +0200" stop="20260331124000 +0200">
+    <title lang="nb">Mikkes klubbhus+</title>
+    <sub-title lang="nb">S01E05</sub-title>
+    <desc lang="nb">Langbein er sulten på pizza, men kjøleskapet mangler ingrediensene. Mikke og vennene bruker Mus-ke-ting for å finne det de trenger for å lage en deilig pizza de kan dele!.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">0.4.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331124000 +0200" stop="20260331125000 +0200">
+    <title lang="nb">Bluey</title>
+    <sub-title lang="nb">S03E15</sub-title>
+    <desc lang="nb">Jack later som om han er en sjømann på vei hjem til Australia mens han venter på å bli hentet på skolen. Samtidig kjører faren til Jack seg bort mens han er på vei for å hente ham.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2.14.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331125000 +0200" stop="20260331125500 +0200">
+    <title lang="nb">Bluey</title>
+    <sub-title lang="nb">S03E16</sub-title>
+    <desc lang="nb">Bluey og Bingo vil leke restaurant med morfar, men det er litt annerledes enn han er vant til... Han trenger en app for å bestille mat!.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2.15.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331125500 +0200" stop="20260331130500 +0200">
+    <title lang="nb">Bluey</title>
+    <sub-title lang="nb">S03E17</sub-title>
+    <desc lang="nb">Ungene leker kafé sånn at Bingo kan spise pavlova, men kokken pappa klarer visst aldri helt å forstå hva de bestiller! Når Bluey gir han sparken åpner pappa sine egen konkurrerende restaurant rett ved.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2.16.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331130500 +0200" stop="20260331133000 +0200">
+    <title lang="nb">Mikkes klubbhus+</title>
+    <sub-title lang="nb">S01E06</sub-title>
+    <desc lang="nb">Professor Von Rupp gir en pipeorgelvogn til klubbhustoget. Minni fremfører en sang, og hun og Mikke hjelper vennene med å gjøre ferdig jobbene sine så de kan bli med på turen.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">0.5.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331133000 +0200" stop="20260331135500 +0200">
+    <title lang="nb">Spidey og hans fantastiske venner</title>
+    <sub-title lang="nb">S03E12</sub-title>
+    <desc lang="nb">Team Spidey hjelper byen når Zola blir til en superhelt som Iron Man. Tante Mays ballongtur gjør at hun, Spidey og Gobby blir strandet på en øy.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2.11.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331135500 +0200" stop="20260331142000 +0200">
+    <title lang="nb">Phineas og Ferb</title>
+    <sub-title lang="nb">S01E01</sub-title>
+    <desc lang="nb">Phineas og Ferb utnytter sommerdagen ved å bygge den kuleste berg- og dalbanen noensinne i hagen. / På bursdagen til Candace reiser familien til Mount Rushmore der Phineas og Ferb arrangerer en fantastisk overraskelse for Candace.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331142000 +0200" stop="20260331144500 +0200">
+    <title lang="nb">Familien Green i storby&#39;n</title>
+    <sub-title lang="nb">S04E102</sub-title>
+    <desc lang="nb">Følg de sære eventyrene til tiårige Cricket Green, en rampete og optimistisk gutt fra landet, hans storesøster Tilly, faren Bill, og Besta Alice. Crickets nysgjerrige og entusiastiske vesen leder stadig vekk familien ut på storslåtte eventyr.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">3.101.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331144500 +0200" stop="20260331151000 +0200">
+    <title lang="nb">Miraculous:  Ladybug &amp; Cat Noir på eventyr</title>
+    <sub-title lang="nb">S05E106</sub-title>
+    <desc lang="nb">Dagene flyr, og ingen akumatiserte skurker viser seg i Paris. Kan det være at Monark har gitt opp?.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">4.105.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331151000 +0200" stop="20260331153500 +0200">
+    <title lang="nb">Vampirina: Teenage Vampire</title>
+    <sub-title lang="nb">S01E10</sub-title>
+    <desc lang="nb">Når Vee ikke vet hva hun skal gi til hemmelig julenisse-mottakeren sin, tar hun i bruk transilvansk hjelp. I mellomtida sliter Elijah og Demi med å finne den perfekte gaven til Sophie.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">0.9.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331153500 +0200" stop="20260331160000 +0200">
+    <title lang="nb">Magikerne bortenfor Waverly Place</title>
+    <sub-title lang="nb">S02E24</sub-title>
+    <desc lang="nb">Et orakel dukker opp på døra til Billie og forutser at hun kommer til å ødelegge Justins store karneval, så Billie blir fast bestemt på å endre skjebnen sin.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">1.23.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331160000 +0200" stop="20260331162500 +0200">
+    <title lang="nb">Miraculous:  Ladybug &amp; Cat Noir på eventyr</title>
+    <sub-title lang="nb">S02E16</sub-title>
+    <desc lang="nb">Marinette og Adrien er gode venner om dagen, og hemmelige lagkamerater om natten når de transformeres til superheltene Ladybug og Cat Noir. Deres oppdrag: Fange onde skapninger ledet av Hawk Moth og redde Paris! Marinette må alltid sjonglere to identiteter og to mål: Vinne Adriens hjerte på skolen og stoppe skurkene om kvelden!.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">1.15.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331162500 +0200" stop="20260331165000 +0200">
+    <title lang="nb">Miraculous:  Ladybug &amp; Cat Noir på eventyr</title>
+    <sub-title lang="nb">S01E36</sub-title>
+    <desc lang="nb">Ladybug kjemper mot Adriens livvakt, som nå er Gorizilla.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">0.35.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331165000 +0200" stop="20260331171500 +0200">
+    <title lang="nb">Spidey og hans fantastiske venner</title>
+    <sub-title lang="nb">S03E07</sub-title>
+    <desc lang="nb">Team Spidey, Ant Man, og Wasp må krympe en enorm Zola for å gjøre han normal igjen. Gobby og Rhino prøver å ødelegge Valentinsdagen.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2.6.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331171500 +0200" stop="20260331174000 +0200">
+    <title lang="nb">Iron Man og hans utrolige venner</title>
+    <sub-title lang="nb">S01E06</sub-title>
+    <desc lang="nb">Tony prøver å flytte en steinblokk som blokkerer stien. Riri vil leke med papirbåter, men Swarm har drenert bekken for å ødelegge parken.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">0.5.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331174000 +0200" stop="20260331180500 +0200">
+    <title lang="nb">Mikkes klubbhus+</title>
+    <sub-title lang="nb">S01E12</sub-title>
+    <desc lang="nb">Dolly mister stemmen før en froskeforestilling. Vennene hennes henter sitron, honning og te for å lage varm drikke som lindrer halsen hennes og hjelper henne med å få stemmen tilbake.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">0.11.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331180500 +0200" stop="20260331183000 +0200">
+    <title lang="nb">Superkattungene</title>
+    <sub-title lang="nb">S02E37</sub-title>
+    <desc lang="nb">Ginny og Bitsy er bestevenner. Zsa-Zsa fryser alle.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">1.36.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331183000 +0200" stop="20260331184000 +0200">
+    <title lang="nb">Bluey</title>
+    <sub-title lang="nb">S02E06</sub-title>
+    <desc lang="nb">Mens fedrene drar opp stubber i hagen gjør Bluey, Bingo og Muffin en stubbe til en neglesalong. Når stubben til jentene skal opp må fedrene inngå en avtale.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">1.5.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331184000 +0200" stop="20260331184500 +0200">
+    <title lang="nb">Bluey</title>
+    <sub-title lang="nb">S02E20</sub-title>
+    <desc lang="nb">Bluey er en energisk Blue Heeler-valp som elsker å leke. Hun gjør hverdagslivet med familien til fantastiske eventyr som utvikler fantasien og hennes mentale, fysiske, og emosjonelle styrke.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">1.19.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331184500 +0200" stop="20260331185500 +0200">
+    <title lang="nb">Bluey</title>
+    <sub-title lang="nb">S02E21</sub-title>
+    <desc lang="nb">Mamma og Pappa sier at jentene skal være hos Farmor sånn at de kan få litt tid for seg selv.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">1.20.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331185500 +0200" stop="20260331190000 +0200">
+    <title lang="nb">Bluey</title>
+    <sub-title lang="nb">S02E74</sub-title>
+    <desc lang="nb">Familien leker Buss. Pappa er sjåføren, Mamma er fast passasjer, og Bluey og Bingo er...de eldre!.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">1.73.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331190000 +0200" stop="20260331191000 +0200">
+    <title lang="nb">Bluey</title>
+    <sub-title lang="nb">S02E19</sub-title>
+    <desc lang="nb">Bingo blir lei seg når hun søler Mamma sin morsdagfrokost, men Bluey vet hvordan hun skal muntre henne opp...de lager et teaterstykke i stedet!.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">1.18.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331191000 +0200" stop="20260331191500 +0200">
+    <title lang="nb">Bluey</title>
+    <sub-title lang="nb">S02E14</sub-title>
+    <desc lang="nb">Mamma og Bluey leker Mammaskole, og Mamma går med på å lære Bluey å oppdra de vanskelige barna hennes.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">1.13.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331191500 +0200" stop="20260331192500 +0200">
+    <title lang="nb">Bluey</title>
+    <sub-title lang="nb">S02E18</sub-title>
+    <desc lang="nb">Familien er ute på en gåtur når Bingo finner ut at hun er for sliten til å gå, og at hun vil bæres av Pappa.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">1.17.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331192500 +0200" stop="20260331195000 +0200">
+    <title lang="nb">Phineas og Ferb</title>
+    <sub-title lang="nb">S02E07</sub-title>
+    <desc lang="nb">Når et romskip kræsjer med et søtt romvesen som heter Meap ombord, setter det i gang en rekke eventyr for gutta og vennene. Og det ender med at de kidnappes av et ondt romvesen som heter Mitch.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">1.6.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331195000 +0200" stop="20260331201500 +0200">
+    <title lang="nb">Phineas og Ferb</title>
+    <sub-title lang="nb">S01E01</sub-title>
+    <desc lang="nb">Phineas og Ferb utnytter sommerdagen ved å bygge den kuleste berg- og dalbanen noensinne i hagen. / På bursdagen til Candace reiser familien til Mount Rushmore der Phineas og Ferb arrangerer en fantastisk overraskelse for Candace.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331201500 +0200" stop="20260331204000 +0200">
+    <title lang="nb">Familien Green i storby&#39;n</title>
+    <sub-title lang="nb">S03E67</sub-title>
+    <desc lang="nb">Remy prøver å finne utholdenhet på gården mens Cricket tar traktorkjøretimer. Phoenix reiser tilbake til storbyen for å hente Saxon, mens Besta og Gloria drar på klubb.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2.66.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331204000 +0200" stop="20260331210500 +0200">
+    <title lang="nb">Kiff</title>
+    <sub-title lang="nb">S01E07</sub-title>
+    <desc lang="nb">Når Kiff ødelegger Kristophs yndlingsleke, tar hun dens plass mens Barry prøver å rense dukken; Kiff og Barry gjennomgår en krise når de oppdager at deres beste dager ligger bak dem.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">0.6.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331210500 +0200" stop="20260331213000 +0200">
+    <title lang="nb">Miraculous:  Ladybug &amp; Cat Noir på eventyr</title>
+    <sub-title lang="nb">S04E08</sub-title>
+    <desc lang="nb">Når Chloe blir akumatisert til Queen Banana, bestemmer Ladybug seg for å gi en Miraculous til en ny og lovende alliert så de kan hjelpe henne å stanse superskurken.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">3.7.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331213000 +0200" stop="20260331215500 +0200">
+    <title lang="nb">Miraculous:  Ladybug &amp; Cat Noir på eventyr</title>
+    <sub-title lang="nb">S04E08</sub-title>
+    <desc lang="nb">Når Chloe blir akumatisert til Queen Banana, bestemmer Ladybug seg for å gi en Miraculous til en ny og lovende alliert så de kan hjelpe henne å stanse superskurken.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">3.7.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331215500 +0200" stop="20260331222000 +0200">
+    <title lang="nb">Vampirina: Teenage Vampire</title>
+    <sub-title lang="nb">S01E10</sub-title>
+    <desc lang="nb">Når Vee ikke vet hva hun skal gi til hemmelig julenisse-mottakeren sin, tar hun i bruk transilvansk hjelp. I mellomtida sliter Elijah og Demi med å finne den perfekte gaven til Sophie.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">0.9.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331222000 +0200" stop="20260331224500 +0200">
+    <title lang="nb">Magikerne bortenfor Waverly Place</title>
+    <sub-title lang="nb">S01E02</sub-title>
+    <desc lang="nb">Billie, en mektig, ung magiker, blir sendt til den dødelige verden med den eneste magiker-læreren som kan hjelpe henne å kontrollere kreftene: Justin Russo.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331224500 +0200" stop="20260331231000 +0200">
+    <title lang="nb">Familien Green i storby&#39;n</title>
+    <sub-title lang="nb">S02E47</sub-title>
+    <desc lang="nb">Familien Green i Storby&#39;n er en animert komedie-eventyrserie som følger de ekstraordinære eventyrene til Cricket Green, en skøyeraktig og optimistisk landsens gutt som flytter til storbyen med sin svært utilpassede familie, inkludert hans unike søster Tilly, overveldede far Bill, og sprelske bestemor Alice. Crickets naturlige nysgjerrighet og entusiasme fører ham og familien hans på episke reiser og inn i hjertene til de nye naboene hans.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">1.46.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331231000 +0200" stop="20260331233500 +0200">
+    <title lang="nb">Familien Green i storby&#39;n</title>
+    <sub-title lang="nb">S02E18</sub-title>
+    <desc lang="nb">Tilly setter opp et skuespill. Bestemor kan ikke se!.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">1.17.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260331233500 +0200" stop="20260401000000 +0200">
+    <title lang="nb">Kiff</title>
+    <sub-title lang="nb">S02E31</sub-title>
+    <desc lang="nb">Kiff og kaninbestevennen Barrys eventyr fører dem dypere inn i det stadig så eksentriske samfunnet Taffelby, der dyr og magiske originaler takler livet, skolen, relasjoner og underlige opplevelser i det bedårende universet.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">1.30.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260401000000 +0200" stop="20260401002000 +0200">
+    <title lang="nb">Phineas og Ferb</title>
+    <sub-title lang="nb">S03E81</sub-title>
+    <desc lang="nb">Phineas og Ferb lager et nytt språk som raskt blir populært i hele Danville. Dr. Doofenshmirtz akter å bruke Norm til å få alle innbyggerne til å lystre sine ordre, men han blir frustrert når Norm begynner å snakke ungenes nye språk. / Phineas og Ferb skaper ved et uhell hundrevis av potetmenneske-hybrider. Dr. Doofenshmirtz tilkaller en historisk hær som skal hjelpe ham med å overta landsdelen. Baljeet og Buford underholder en gjeng med pensjonister på Potetlappfesten.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2.80.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260401002000 +0200" stop="20260401004000 +0200">
+    <title lang="nb">Phineas og Ferb</title>
+    <sub-title lang="nb">S03E82</sub-title>
+    <desc lang="nb">Phineas og Ferb bestemmer seg for å kjøle seg ned fra sommervarmen ved å lage en familiejulespesial. / Phineas og Ferb lager S’vinter, en blanding av sommer og vinter, for å kunne nyte det beste fra to årstider.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2.81.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260401004000 +0200" stop="20260401010500 +0200">
+    <title lang="nb">Phineas og Ferb</title>
+    <sub-title lang="nb">S03E83</sub-title>
+    <desc lang="nb">Når den lille krokodillen Kalle forsvinner, drar Phineas, Ferb og gjengen ut for å finne ham ved hjelp av en krokosøker. / Denne episoden er bygget opp slik at den etterligner en typisk tv-kanalzapping. Klippene spenner fra en serie som heter ”Dr. Ninja Baljeet”, hvor Baljeet spiller ninjadoktor, til ”Det er… Norm”, om Lille Suzy og hennes robotvenn.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2.82.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260401010500 +0200" stop="20260401012500 +0200">
+    <title lang="nb">Familien Green i storby&#39;n</title>
+    <sub-title lang="nb">S02E31</sub-title>
+    <desc lang="nb">Cricket får en rolle i Big Coffees nye TV-reklame, men mister selvtilliten. Bill skifter ut pickup&#39;en mot en topp moderne el-bil, men får mer enn han var ute etter.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">1.30.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260401012500 +0200" stop="20260401015000 +0200">
+    <title lang="nb">Familien Green i storby&#39;n</title>
+    <sub-title lang="nb">S02E32</sub-title>
+    <desc lang="nb">Besta overbeviser naboene om at hun er en heks, og Bill inviterer til grillfest. Crickets får et dilemma når planen hans for å tuske til seg pengene i ønskebrønnen går ut over Tilly.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">1.31.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260401015000 +0200" stop="20260401021000 +0200">
+    <title lang="nb">Familien Green i storby&#39;n</title>
+    <sub-title lang="nb">S02E03</sub-title>
+    <desc lang="nb">Gloria sitter fast i heisen med familien Green. Remy blir lurt av en svindelaktig nett-influencer, og Tilly lager en video sammen med Bill.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">1.2.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260401021000 +0200" stop="20260401023500 +0200">
+    <title lang="nb">Hamster &amp; Gretel</title>
+    <sub-title lang="nb">S01E01</sub-title>
+    <desc lang="nb">Grete Grant-Gomez og hamsteren hennes “Hamster” får superkrefter av romvesener, og det store ansvaret å være «Jordens helter»! Gretes tenåringensbror Kevin, blir derimot oversett av romvesenene og må ta til takke med å være «superhelt-tilstøtende». Men han er ofte hjernen bak hvert oppdrag! Nå må Hamster og Grete redde verden fra den ene superskurken etter den andre, samtidig som de ikke avslører hvem de er!.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260401023500 +0200" stop="20260401025500 +0200">
+    <title lang="nb">Hamster &amp; Gretel</title>
+    <sub-title lang="nb">S01E02</sub-title>
+    <desc lang="nb">Kevin og Grete må redde familiemiddagen; Grete konfronterer en lyn-drevet cowboy mens Dave strever med å finne den perfekte bryllupsdagsgaven til Carolina.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260401025500 +0200" stop="20260401032000 +0200">
+    <title lang="nb">Phineas og Ferb</title>
+    <sub-title lang="nb">S03E84</sub-title>
+    <desc lang="nb">Phineas og Ferb vil gjøre alle dagene i sommerferien spektakulære! Hver dag finner de på nye fantasifulle oppfinnelser, mens den misunnelige storesøsteren Candace prøver å sladre på dem til mamma. Det er alt fra å bygge en berg-og-dalbane i bakgården, surfe på lokale kjempebølger til å dra tilbake til fortiden. Samtidig lever familiens ikke alt for smarte husdyr, nebbdyret Perry, et dobbeltliv som hemmelig agent og kjemper i hver episode mot den onde Dr. Doofenshmirtz.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2.83.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260401032000 +0200" stop="20260401034000 +0200">
+    <title lang="nb">Phineas og Ferb</title>
+    <sub-title lang="nb">S03E85</sub-title>
+    <desc lang="nb">Major Monogram er syk og sengeliggende, og Karl leser en fortelling for ham, hvor en middelaldersk Phineas og Ferb legger ut på en magisk søken for å bekjempe en ond trollmann ved navn Malifashmirtz.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2.84.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260401034000 +0200" stop="20260401040500 +0200">
+    <title lang="nb">Phineas og Ferb</title>
+    <sub-title lang="nb">S03E86</sub-title>
+    <desc lang="nb">For Phineas og Ferb er hver dag fylt med helsprøe eventyr. De har bestemt seg for å gjøre hver dag i sommerferien spektakulær!.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2.85.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260401040500 +0200" stop="20260401042500 +0200">
+    <title lang="nb">Hamster &amp; Gretel</title>
+    <sub-title lang="nb">S01E06</sub-title>
+    <desc lang="nb">Hamster og Grete må redde skoleballet; Hamster og Grete kjemper mot en mutant-ål.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">0.5.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260401042500 +0200" stop="20260401045000 +0200">
+    <title lang="nb">Hamster &amp; Gretel</title>
+    <sub-title lang="nb">S01E07</sub-title>
+    <desc lang="nb">Churro blir en internett-sensasjon; Grete har hendene fulle på Baileys bursdagsfest.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">0.6.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260401045000 +0200" stop="20260401051000 +0200">
+    <title lang="nb">Hamster &amp; Gretel</title>
+    <sub-title lang="nb">S01E08</sub-title>
+    <desc lang="nb">Kevin og Hamster kjemper mot skurker mens Grete gjør husarbeid; Hamster og Grete møter en gigantisk sjøoter.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">0.7.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260401051000 +0200" stop="20260401053000 +0200">
+    <title lang="nb">Familien Green i storby&#39;n</title>
+    <sub-title lang="nb">S03E78</sub-title>
+    <desc lang="nb">Bli med Cricket Green på de absurde eventyrene han begir seg ut på. Cricket er en rampete og optimistisk bygdegutt som har flyttet til storbyen med sin vanvittig malplasserte familie - storesøster Tilly, deres far Bill, og Besta Alice. Crickets naturlige nysgjerrighet og entusiasme får familien inn i alle slags merkelige situasjoner.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2.77.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260401053000 +0200" stop="20260401055000 +0200">
+    <title lang="nb">Familien Green i storby&#39;n</title>
+    <sub-title lang="nb">S03E79</sub-title>
+    <desc lang="nb">Familien Green i Storby&#39;n er en animert komedie-eventyrserie som følger de ekstraordinære eventyrene til Cricket Green, en skøyeraktig og optimistisk landsens gutt som flytter til storbyen med sin svært utilpassede familie, inkludert hans unike søster Tilly, overveldede far Bill, og sprelske bestemor Alice. Crickets naturlige nysgjerrighet og entusiasme fører ham og familien hans på episke reiser og inn i hjertene til de nye naboene hans.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2.78.0/1</episode-num>
+  </programme>
+  <programme channel="disneychannel.no" start="20260401055000 +0200" stop="20260401060000 +0200">
+    <title lang="nb">Familien Green i storby&#39;n</title>
+    <sub-title lang="nb">S02E66</sub-title>
+    <desc lang="nb">Familien Green i Storby&#39;n er en animert komedie-eventyrserie som følger de ekstraordinære eventyrene til Cricket Green, en skøyeraktig og optimistisk landsens gutt som flytter til storbyen med sin svært utilpassede familie, inkludert hans unike søster Tilly, overveldede far Bill, og sprelske bestemor Alice. Crickets naturlige nysgjerrighet og entusiasme fører ham og familien hans på episke reiser og inn i hjertene til de nye naboene hans.</desc>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">1.65.0/1</episode-num>
+  </programme>
+</tv>
