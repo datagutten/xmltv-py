@@ -4,3 +4,5 @@ from .channel import Channel
 from .elements import SubTitle, Description, DisplayName, LocalizedElement
 # noinspection PyUnusedImports
 from .program import Program
+# noinspection PyUnusedImports
+from .tv import TV
