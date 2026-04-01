@@ -2,8 +2,8 @@ import dataclasses
 from typing import Optional, List
 from xml.etree.ElementTree import Element
 
-from tv import TV
 from . import elements
+from .tv import TV
 
 
 @dataclasses.dataclass
