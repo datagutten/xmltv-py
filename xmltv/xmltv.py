@@ -1,6 +1,8 @@
+from pathlib import Path
 from typing import List
 from xml.etree import ElementTree
 
+from .channel import Channel
 from .program import Program
 
 
@@ -24,3 +26,10 @@ def parse_file(file) -> List[Program]:
     root = tree.getroot()
     programs = [Program.from_xml(program) for program in root]
     return programs
+
+
+def parse_channel_file(file: Path) -> List[Channel]:
+    tree = ElementTree.parse(file)
+    root = tree.getroot()
+
+    return [Channel.from_xml(channel, root) for channel in root]
