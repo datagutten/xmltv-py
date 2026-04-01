@@ -25,7 +25,8 @@ class LocalizedElement(MultiString, ABC):
 
     def __init__(self, element: Element):
         super().__init__(element)
-        self.language = element.attrib['lang']
+        if 'lang' in element.attrib:
+            self.language = element.attrib['lang']
 
 
 class Title(LocalizedElement):
