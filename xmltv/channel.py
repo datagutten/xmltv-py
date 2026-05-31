@@ -23,6 +23,9 @@ class Channel:
 
         return channel_obj
 
+    def __str__(self):
+        return str(self.display_name) or self.channel_id
+
     @property
     def display_name(self):
         return self.display_names[0] if self.display_names else None
