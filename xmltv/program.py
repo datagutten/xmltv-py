@@ -59,7 +59,7 @@ class Program:
     @classmethod
     def from_xml(cls, program: Element):
         season, episode, part = parse_episode(program.findall('episode-num'))
-        return cls(
+        program_obj = cls(
             titles=elements.Title.find_multi(program),
             sub_titles=elements.SubTitle.find_multi(program),
             start=parse_time(program.attrib["start"]),
@@ -69,8 +69,12 @@ class Program:
             season=season,
             episode=episode,
             part=part,
-            description=program.find('desc').text,
         )
+        description = program.find('desc')
+        if description is not None:
+            program_obj.description = description.text
+
+        return program_obj
 
     @property
     def title(self):
