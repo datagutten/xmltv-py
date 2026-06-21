@@ -6,3 +6,4 @@ from .elements import SubTitle, Description, DisplayName, LocalizedElement
 from .program import Program
 # noinspection PyUnusedImports
 from .tv import TV
+from .files import XMLTVFiles
